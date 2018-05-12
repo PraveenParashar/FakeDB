@@ -25,9 +25,14 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "Praveen",
-     "name": "Parashar",
-     "name": "Naveen"
-  }
+  "profile": 
+  {
+    "name": "Praveen"
+  ,{
+     "name": "Parashar"
+  },
+  {
+  "name": "Naveen"
+}
+  
 }
