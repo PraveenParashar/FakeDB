@@ -25,15 +25,13 @@
       "postId": 1
     }
   ],
-  "profile": 
-  [
-  {
-    "name": "Praveen"
-  ,{
-     "name": "Parashar"
+  "profiles": [
+    { "name": "Praveen"
   },
-  {
-  "name": "Naveen"
+   { "name": "Parashar"
+  },
+   { "name": "naveen"
+  }
+    ]
+   
 }
-  
-}]
